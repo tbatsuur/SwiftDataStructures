@@ -1,0 +1,6 @@
+module Pods_DataStructures {
+  umbrella header "Pods-DataStructures-umbrella.h"
+
+  export *
+  module * { export * }
+}
